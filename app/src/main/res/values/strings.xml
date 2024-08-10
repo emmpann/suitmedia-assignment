@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">suitmedia assignment apps</string>
+    <string name="check">CHECK</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="next">NEXT</string>
+    <string name="coba_lagi">coba lagi</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="user_isn_t_found">User is not found</string>
+</resources>
